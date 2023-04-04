@@ -1,3 +1,5 @@
 console.log("Entendendo como funciona o GitHub, estudando na Fomenta pela ALURA")
 console.log("Adicionando mais uma linha para atualizar o commit através do cmd")
 console.log("Mais uma vez, tentando dnv")
+console.log("Adicionando mais uma linha de comando")
+console.log("Criando um novo arquivo dentro do projeto")
