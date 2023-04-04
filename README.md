@@ -6,5 +6,5 @@
 Node app.js
 ```
 
-Tentando acessar jistóricos de commits realizados
+Tentando acessar históricos de commits realizados
 Atualizando commits
